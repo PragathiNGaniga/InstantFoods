@@ -610,9 +610,9 @@ for(Cart cart : cartList){
     <!-- Food Image -->
     <div class="cart-image">
         <img
-        src="<%=request.getContextPath()%>/<%=cart.getImagePath()%>"
-        alt="<%=cart.getItemName()%>"
-        onerror="this.src='<%=request.getContextPath()%>/images/menu/default.jpg'">
+    		src="<%=cart.getImagePath()%>"
+    		alt="<%=cart.getItemName()%>"
+    		onerror="this.onerror=null;this.src='<%=request.getContextPath()%>/images/menu/default.jpg';">
     </div>
     <!-- Item Details -->
     <div class="cart-details">

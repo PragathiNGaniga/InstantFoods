@@ -1350,32 +1350,36 @@ d="M0,192L80,170.7C160,149,320,107,480,117.3C640,128,800,192,960,192C1120,192,12
     <div class="category-container">
         <div class="category-card">
             <!-- IMAGE: category - pizza - change src below to swap -->
-            <img src="https://loremflickr.com/150/150/pizza" onerror="this.onerror=null;this.src='https://picsum.photos/150/150?random=11';">
+            <img src="https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=481&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" onerror="this.onerror=null;this.src='https://picsum.photos/150/150?random=11';">
             <h3>Pizza</h3>
         </div>
         <div class="category-card">
             <!-- IMAGE: category - burger - change src below to swap -->
-            <img src="https://loremflickr.com/150/150/burger" onerror="this.onerror=null;this.src='https://picsum.photos/150/150?random=12';">
+            <img src="https://plus.unsplash.com/premium_photo-1675252369719-dd52bc69c3df?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8YnVyZ2VyfGVufDB8fDB8fHww" onerror="this.onerror=null;this.src='https://picsum.photos/150/150?random=12';">
             <h3>Burger</h3>
         </div>
         <div class="category-card">
             <!-- IMAGE: category - biryani - change src below to swap -->
-            <img src="https://loremflickr.com/150/150/biryani" onerror="this.onerror=null;this.src='https://picsum.photos/150/150?random=13';">
+            <img src="https://images.unsplash.com/photo-1697155406055-2db32d47ca07?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YmlyeWFuaXxlbnwwfHwwfHx8MA%3D%3D" onerror="this.onerror=null;this.src='https://picsum.photos/150/150?random=13';">
             <h3>Biryani</h3>
         </div>
         <div class="category-card">
             <!-- IMAGE: category - noodles/chinese - change src below to swap -->
-            <img src="https://loremflickr.com/150/150/noodles" onerror="this.onerror=null;this.src='https://picsum.photos/150/150?random=14';">
+            <img src="https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2hpbmVzZSUyMGZvb2R8ZW58MHx8MHx8fDA%3D" onerror="this.onerror=null;this.src='https://picsum.photos/150/150?random=14';">
             <h3>Chinese</h3>
         </div>
         <div class="category-card">
             <!-- IMAGE: category - dessert - change src below to swap -->
-            <img src="https://loremflickr.com/150/150/dessert" onerror="this.onerror=null;this.src='https://picsum.photos/150/150?random=15';">
+            <img src="https://images.unsplash.com/photo-1606890737304-57a1ca8a5b62?q=80&w=503&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" onerror="this.onerror=null;this.src='https://picsum.photos/150/150?random=15';">
             <h3>Desserts</h3>
+        </div>
+        <div>
+        </div>
+        <div>
         </div>
         <div class="category-card">
             <!-- IMAGE: category - beverages - change src below to swap -->
-            <img src="https://loremflickr.com/150/150/drink" onerror="this.onerror=null;this.src='https://picsum.photos/150/150?random=16';">
+            <img src="https://images.unsplash.com/photo-1609951651556-5334e2706168?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmV2ZXJhZ2VzfGVufDB8fDB8fHww" onerror="this.onerror=null;this.src='https://picsum.photos/150/150?random=16';">
             <h3>Beverages</h3>
         </div>
     </div>
@@ -1430,7 +1434,7 @@ d="M0,192L80,170.7C160,149,320,107,480,117.3C640,128,800,192,960,192C1120,192,12
 <div class="restaurant-preview">
 <div class="restaurant-preview-card">
 <!-- IMAGE: restaurant - Pizza Hut - change src below to swap -->
-<img src="https://loremflickr.com/400/300/pizza" onerror="this.onerror=null;this.src='https://picsum.photos/400/300?random=21';">
+<img src="https://images.unsplash.com/photo-1763992108632-77121f308b43?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGl6emElMjBodXR8ZW58MHx8MHx8fDA%3D" onerror="this.onerror=null;this.src='https://picsum.photos/400/300?random=21';">
 <h3>Pizza Hut</h3>
 <span>Italian • Pizza</span>
 <div class="rating">
@@ -1439,7 +1443,7 @@ d="M0,192L80,170.7C160,149,320,107,480,117.3C640,128,800,192,960,192C1120,192,12
 </div>
 <div class="restaurant-preview-card">
 <!-- IMAGE: restaurant - KFC - change src below to swap -->
-<img src="https://loremflickr.com/400/300/chicken" onerror="this.onerror=null;this.src='https://picsum.photos/400/300?random=22';">
+<img src="https://images.unsplash.com/photo-1637851682487-fa13fce5150f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8a2ZjfGVufDB8fDB8fHww" onerror="this.onerror=null;this.src='https://picsum.photos/400/300?random=22';">
 <h3>KFC</h3>
 <span>Chicken • Burgers</span>
 <div class="rating">
@@ -1448,16 +1452,18 @@ d="M0,192L80,170.7C160,149,320,107,480,117.3C640,128,800,192,960,192C1120,192,12
 </div>
 <div class="restaurant-preview-card">
 <!-- IMAGE: restaurant - Meghana Foods - change src below to swap -->
-<img src="https://loremflickr.com/400/300/biryani" onerror="this.onerror=null;this.src='https://picsum.photos/400/300?random=23';">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcswELhrmoBgq1G2N-dbae0Gp5REVN97pdLfj8aDfHA&s=10" onerror="this.onerror=null;this.src='https://picsum.photos/400/300?random=23';">
 <h3>Meghana Foods</h3>
 <span>Biryani</span>
 <div class="rating">
 ⭐ 4.8
 </div>
 </div>
+<div>
+</div>
 <div class="restaurant-preview-card">
 <!-- IMAGE: restaurant - Truffles - change src below to swap -->
-<img src="https://loremflickr.com/400/300/restaurant" onerror="this.onerror=null;this.src='https://picsum.photos/400/300?random=24';">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl_mZ39BNcV1a9EW_9phLA-4P7IRODCYxYzECv-RR_6w&s=10" onerror="this.onerror=null;this.src='https://picsum.photos/400/300?random=24';">
 <h3>Truffles</h3>
 <span>Continental</span>
 <div class="rating">
